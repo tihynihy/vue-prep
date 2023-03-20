@@ -58,6 +58,7 @@ export default {
   max-width: 100%;
   max-height: 100%;
   border-radius: 5px;
+  border: 1px solid black;
 }
 
 #img-con {

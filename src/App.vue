@@ -134,6 +134,72 @@ export default {
           priceData: "1000",
           imageData: "",
         },
+        {
+          id: 1,
+          titleData: "MK4 2004",
+          qualityData: "Koristeno",
+          timeData: "21.1.2020",
+          priceData: "2000",
+          imageData: "",
+        },
+        {
+          id: 2,
+          titleData: "MK5 2014",
+          qualityData: "Novo",
+          timeData: "21.1.2020",
+          priceData: "45000",
+          imageData: "",
+        },
+        {
+          id: 3,
+          titleData: "MK5 2014",
+          qualityData: "Novo",
+          timeData: "21.1.2020",
+          priceData: "800000",
+          imageData: "", //nezz kako da
+          //bindam slike kao ostale data elemente
+        },
+        {
+          id: 4,
+          titleData: "MK5 2014",
+          qualityData: "Novo",
+          timeData: "21.1.2020",
+          priceData: "1000",
+          imageData: "",
+        },
+        {
+          id: 1,
+          titleData: "MK4 2004",
+          qualityData: "Koristeno",
+          timeData: "21.1.2020",
+          priceData: "2000",
+          imageData: "",
+        },
+        {
+          id: 2,
+          titleData: "MK5 2014",
+          qualityData: "Novo",
+          timeData: "21.1.2020",
+          priceData: "45000",
+          imageData: "",
+        },
+        {
+          id: 3,
+          titleData: "MK5 2014",
+          qualityData: "Novo",
+          timeData: "21.1.2020",
+          priceData: "800000",
+          imageData: "", //nezz kako da
+          //bindam slike kao ostale data elemente
+        },
+        {
+          id: 4,
+          titleData: "MK5 2014",
+          qualityData: "Novo",
+          timeData: "21.1.2020",
+          priceData: "1000",
+          imageData: "",
+        },
       ],
     };
   },
